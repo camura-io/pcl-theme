@@ -1,6 +1,0 @@
-{
-  "rewrites": [
-    { "source": "/custom.xaml", "destination": "/api/custom" },
-    { "source": "/(.*)", "destination": "/api/custom" }
-  ]
-}
