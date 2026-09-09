@@ -1,0 +1,6 @@
+{
+  "rewrites": [
+    { "source": "/custom.xaml", "destination": "/api/custom" },
+    { "source": "/manage", "destination": "/api/manage" }
+  ]
+}
